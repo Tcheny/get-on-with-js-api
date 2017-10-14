@@ -1,0 +1,24 @@
+{
+  "name": "gowjs-api",
+  "version": "1.0.0",
+  "description": "Récapitulatif de la stack JavaScript pour un développeur en 2017 (Backend)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasMartinho/get-on-with-js-api.git"
+  },
+  "keywords": [
+    "api",
+    "backend",
+    "javascript"
+  ],
+  "author": "Amelle El bakkal, Eugénie Be & Nicolas Martinho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolasMartinho/get-on-with-js/issues"
+  },
+  "homepage": "https://github.com/NicolasMartinho/get-on-with-js#readme"
+}
