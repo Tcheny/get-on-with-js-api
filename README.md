@@ -21,6 +21,7 @@
 
 ### Ressources auxiliaires :
 
+- [Trello](https://trello.com/b/22xqkGXL/get-on-with-js)
 - [Maquette Figma](https://www.figma.com/file/a7M2nAiloTf0mNXivSnAcJFI/Get-On-With-JS?node-id=7%3A2)
 - **Environnement de Développement Postman** *soon*
 - **Dump Database** *soon*
