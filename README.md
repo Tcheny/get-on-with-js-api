@@ -9,13 +9,13 @@
 
 ### Les technos utilisés sont les suivantes :
 - ## Mongo
-> Base de données
+Base de données
 - ## Express
-> Infrastructure d'application pour Node.js
+Infrastructure d'application pour Node.js
 - ## React
-> Librairie Javascript pour l'UI
+Librairie Javascript pour l'UI
 - ## Node
-> Environnement d'éxécution Javascript
+Environnement d'éxécution Javascript
 
 ***
 
