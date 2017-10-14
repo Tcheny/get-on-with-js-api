@@ -28,4 +28,4 @@ Environnement d'éxécution Javascript
 
 ***
 
-Projet réalisé en Groupe par Amelle, Eugénie et Nicolas Martinho :muscle:
+Projet réalisé en Groupe par [Amelle](https://github.com/sweetyume), [Eugénie](https://github.com/Tcheny) et [Nicolas Martinho](https://github.com/NicolasMartinho) :muscle:
